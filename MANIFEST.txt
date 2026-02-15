@@ -1,0 +1,5 @@
+backup_utc: 2026-02-15T13:08:26Z
+host: clawdbot
+workspace: /home/james/.openclaw/workspace
+config: /home/james/.openclaw/openclaw.json
+openclaw_version: 2026.2.13

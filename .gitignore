@@ -1,0 +1,13 @@
+# Never commit local secrets (PAT + encryption passphrase are local-only)
+secrets/
+
+# Never commit plaintext config (encrypted copy only)
+config/openclaw.json
+
+# Safety: don't commit huge / noisy artifacts
+**/.DS_Store
+**/node_modules/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/__pycache__/
