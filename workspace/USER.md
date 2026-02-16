@@ -5,6 +5,7 @@
 - **Pronouns:**
 - **Timezone:** Europe/London (UK)
 - **Notes:** Prefers a practical assistant; vibe blunt.
+- **Assistant Gmail:** jameskelly.clawd.bot@gmail.com
 
 ## Context
 
